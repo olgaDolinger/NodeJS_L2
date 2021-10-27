@@ -1,0 +1,11 @@
+To Setup app was used this:
+https://ultimatecourses.com/blog/setup-typescript-nodejs-express#project-setup
+
+
+
+To run app:
+npm run start
+
+Test requests for postman
+(import)
+NodeJS Mentoring.postman_collection.json
